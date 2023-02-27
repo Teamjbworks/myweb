@@ -271,7 +271,7 @@ footer{
 @media screen and (max-width: 768px) {
   /* CSS styles go here */
   .product-card{
-    width:140px;
+    width:120px;
     
   }
 }
